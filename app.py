@@ -82,8 +82,9 @@ elif action == "Contact":
     # Define the HTML code for the buttons
     linkedin_button = '<a href="https://www.linkedin.com/in/tulipaggarwal/" target="_blank" style="text-align: center; margin: 0px 10px; padding: 5px 10px; border-radius: 5px; color: white; background-color: #0077B5; text-decoration: none">LinkedIn</a>'
     github_button = '<a href="https://github.com/TulipAggarwal" target="_blank" style="text-align: center; margin: 0px 10px; padding: 5px 10px; border-radius: 5px; color: white; background-color: #24292E; text-decoration: none">GitHub</a>'
+    ahaar_button = '<a href="https://aahaar.vercel.app/" target="_blank" style="text-align: center; margin: 0px 10px; padding: 5px 10px; border-radius: 5px; color: white; background-color: #FF0000; text-decoration: none">Ahaar</a>'
     # Display the buttons in the app
-    st.markdown(f'{linkedin_button} {github_button} ', unsafe_allow_html=True)
+    st.markdown(f'{linkedin_button} {github_button} {ahaar_button}', unsafe_allow_html=True)
 
     #Contact form
     st.markdown('Please fill out the form below to contact me. Thank you so much!')
