@@ -3,7 +3,7 @@
 ## Link to the deployed Website
 [Ahaar : Feeding Generations](https://ahaar-feeding-generations.streamlit.app/)
 
-##Description
+## Description
 This project aims to showcase visualizations of stakeholder data for Aahaar, a web portal that serves as a platform for connecting surplus food nodes, such as banquet halls and caterers, with people in need through NGOs, orphanages, and old age homes. The primary objective of this portal is to facilitate the donation of surplus food generated from social events. Aahaar recognizes that after social gatherings, significant amounts of food often go to waste. Simultaneously, there are numerous individuals and organizations in the community who struggle with food insecurity and could benefit greatly from access to nutritious meals. Therefore, Aahaar acts as a bridge between surplus food sources and those in need, enabling the effective redistribution of excess food resources.
 
 ## Getting Started
